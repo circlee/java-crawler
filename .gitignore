@@ -30,3 +30,4 @@ rebel.xml
 
 ### Properties ###
 application.properties
+/target/
